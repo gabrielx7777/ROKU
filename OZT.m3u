@@ -88,3 +88,9 @@ http://dns.explouddev.com:80/live/287945811/148063/733.m3u8
 http://dns.explouddev.com:80/live/287945811/148063/731.m3u8
 #EXTINF:-1 group-title="TNT",TNT OP3
 http://173.208.194.186:80/live/92370341211/30082393260/524421
+
+# FILMES
+#EXTINF:-1 tvg-logo="" group-title="FILMES",Megapix
+http://dns.explouddev.com:80/live/287945811/148063/692.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",Megapix op2
+http://173.208.194.186:80/live/92370341211/30082393260/524398

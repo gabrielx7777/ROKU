@@ -94,9 +94,10 @@ http://dns.explouddev.com:80/live/292330036/5179425/264555.m3u8
 # FILMES
 #EXTINF:-1 tvg-logo="" group-title="FILMES",Megapix
 http://dns.explouddev.com:80/live/287945811/148063/692.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FILMES",Megapix op2
-http://173.208.194.186:80/live/92370341211/30082393260/524398
 #EXTINF:-1 tvg-logo="" group-title="FILMES",Telecine Premium
 http://dns.explouddev.com:80/live/292330036/5179425/635.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILMES",Telecine Pipoca
 http://dns.explouddev.com:80/live/292330036/5179425/630.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",HBO
+http://dns.explouddev.com:80/live/292330036/5179425/18751.m3u8
+
